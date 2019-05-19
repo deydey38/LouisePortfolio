@@ -1,0 +1,60 @@
+.header{
+  background-image: url("../img/USA/redrocks.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+  background-attachment: fixed;
+  position: relative;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+.bgimg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('/w3images/profile_girl.jpg');
+  min-height: 100%;
+}
+
+.w3-half img:hover{
+  opacity : 0.6;
+  transition : 0.3s;
+  cursor:pointer;
+}
+
+.w3-main{
+  background-color: #eef0f08c;
+}
+
+#menu-button, #menu-button:hover{
+  background-color: #0000!important;
+}
+
+.filter{
+  background-color: rgba(255, 255, 255, 0.3);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+/*
+.w3-modal{
+  height : auto!important;
+} */
+
+#img01 {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#caption{
+  text-align: center;
+}
